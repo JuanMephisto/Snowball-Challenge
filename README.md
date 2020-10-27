@@ -1,4 +1,4 @@
 # Snowball-Challenge
 IWD - Snowball Challenge
 
-Snowball Challenge task created by Lous Shrestha and Adrian A. Grøtter.
+Snowball Challenge task created by Louis Shrestha and Adrian A. Grøtter.
