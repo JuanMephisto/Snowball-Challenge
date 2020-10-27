@@ -1,0 +1,12 @@
+main{
+  margin-top: 50px;
+}
+.maindiv{
+  display: flex;
+  justify-content: center;
+}
+#aboutUs_txt{
+  margin-top: -10px;
+  text-align: center;
+  line-height: 1.5;
+}
